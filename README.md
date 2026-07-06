@@ -50,7 +50,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-V&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
+
 ---
+ 
 ### 📌 Featured Projects
 
 | Project | Description | Tech |

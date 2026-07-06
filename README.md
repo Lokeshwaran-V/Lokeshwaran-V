@@ -46,12 +46,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-
-### 🟩 Contribution Calendar
-
 <p align="center">
   <img src="https://ghchart.rshah.org/2f9e44/Lokeshwaran-V" alt="Lokeshwaran's GitHub contribution chart" />
 </p>
@@ -59,13 +53,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-V&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lokeshwaran-V&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-
-
+---
 ### 📌 Featured Projects
 
 | Project | Description | Tech |

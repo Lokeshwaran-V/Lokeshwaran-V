@@ -46,9 +46,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://ghchart.rshah.org/2f9e44/Lokeshwaran-V" alt="Lokeshwaran's GitHub contribution chart" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-V&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />

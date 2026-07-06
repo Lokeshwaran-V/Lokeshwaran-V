@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from Chennai</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%7C+Node.js+%7C+JavaScript;Building+things+for+the+web;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%7C+Node.js+%7C+JavaScript;Building+things+for+the+web;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -50,12 +50,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-V&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Lokeshwaran's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwaran-V&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-V&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Lokeshwaran's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwaran-V&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-V&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🟩 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2f9e44/Lokeshwaran-V" alt="Lokeshwaran's GitHub contribution chart" />
 </p>
 
 <p align="center">
@@ -66,7 +72,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Lokeshwaran-V&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshwaran-v&show_icons=true&locale=en&layout=compact" alt="lokeshwaran-v" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshwaran-v&show_icons=true&locale=en" alt="lokeshwaran-v" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshwaran-v&" alt="lokeshwaran-v" /></p> 
+
 
 ### 📌 Featured Projects
 

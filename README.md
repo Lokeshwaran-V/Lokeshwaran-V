@@ -49,14 +49,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-V&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Lokeshwaran's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwaran-V&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokeshwaran-V&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ### 🟩 Contribution Calendar
 
@@ -72,11 +64,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Lokeshwaran-V&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshwaran-v&show_icons=true&locale=en&layout=compact" alt="lokeshwaran-v" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshwaran-v&show_icons=true&locale=en" alt="lokeshwaran-v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshwaran-v&" alt="lokeshwaran-v" /></p> 
 
 
 ### 📌 Featured Projects

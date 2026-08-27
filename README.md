@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on **a web application to connect people from different locations**
-- 🌱 Currently learning **React.js, Node.js, JavaScript, Redux, Express.js**
+- 🌱 Currently learning **React.js, JavaScript, Redux, Java, Springboot**
 - 🤝 Looking for help with **landing a job opportunity**
 - 📫 Reach me at **sudhavenkat.lokesh@gmail.com**
 - ⚡ Fun fact: I enjoy turning ideas into interactive, real-time web experiences

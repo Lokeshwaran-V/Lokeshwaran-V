@@ -1,73 +1,139 @@
-<h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
-<h3 align="center">A passionate Frontend Developer from Chennai</h3>
+# 👋 Hi, I'm Lokeshwaran Venkatesan
+
+<h3 align="center">🚀 Full Stack Developer | React.js • Java • Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=100&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%7C+Node.js+%7C+JavaScript;Building+things+for+the+web;Always+learning%2C+always+building" alt="Typing SVG" />
+  I build responsive, scalable web applications with modern frontend technologies and Java-based backend services.
+  <br/>
+  Passionate about clean code, performance optimization, and creating meaningful digital experiences.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokeshwaran-venkatesan-frontend-developer-react-js" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React.js;Full+Stack+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lokeshwaran-venkatesan-frontend-developer-react-js">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sudhavenkat.lokesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Lokeshwaran-V">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently working on **a web application to connect people from different locations**
-- 🌱 Currently learning **React.js, JavaScript, Redux, Java, Springboot**
-- 🤝 Looking for help with **landing a job opportunity**
-- 📫 Reach me at **sudhavenkat.lokesh@gmail.com**
-- ⚡ Fun fact: I enjoy turning ideas into interactive, real-time web experiences
+- 💻 Full Stack Developer specializing in **React.js and modern JavaScript**
+- 🎨 Experienced in building reusable components, responsive interfaces, and performance-optimized applications
+- ⚙️ Backend development with **Java, Spring Boot, Spring Security, and REST APIs**
+- 🗄️ Working with relational databases such as **MySQL**
+- 🔭 Building projects that combine interactive user experiences with backend functionality
+- 🌱 Continuously improving my skills in application architecture, testing, and full-stack development
+- 🤝 Open to software development opportunities and collaboration
+- 📍 Chennai, Tamil Nadu, India
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" title="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" title="Jest" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" width="40" height="40"/>
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,sass,tailwind,vite" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" alt="Backend Technologies"/>
+</p>
+
+### 🗄️ Database & API
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,hibernate,postman" alt="Database and API Tools"/>
+</p>
+
+### 🧪 Testing, Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jest,jenkins,maven,npm,vscode" alt="Development Tools"/>
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💰 Finance Dashboard</h3>
+      <p>A personal finance management application for tracking transactions, visualizing expenses, and managing financial goals.</p>
+      <p><strong>Tech:</strong> React.js, Redux Toolkit, Recharts, JavaScript</p>
+      <a href="https://github.com/Lokeshwaran-V/finance-dashboard">View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>🎬 LD-connect</h3>
+      <p>A real-time web application that connects users through private rooms with chat and synchronized YouTube video playback.</p>
+      <p><strong>Tech:</strong> React.js, Socket.IO, Node.js, YouTube IFrame API</p>
+      <a href="https://github.com/Lokeshwaran-V/LD-connect">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 Portfolio Website</h3>
+      <p>A personal portfolio showcasing development skills, projects, and professional experience.</p>
+      <p><strong>Tech:</strong> JavaScript, HTML, CSS</p>
+      <a href="https://github.com/Lokeshwaran-V/Portfolio-site">View Project →</a>
+    </td>
+    <td width="50%">
+      <h3>🧩 Data Structures & Algorithms</h3>
+      <p>A collection of coding problems and solutions for strengthening problem-solving and algorithmic thinking.</p>
+      <p><strong>Tech:</strong> Programming fundamentals, DSA</p>
+      <a href="https://github.com/Lokeshwaran-V/DSA">View Project →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-V&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran-V&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwaran-V&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lokeshwaran-V&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-V&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
- 
-### 📌 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**Portfolio-site**](https://github.com/Lokeshwaran-V/Portfolio-site) | Personal portfolio website | JavaScript |
-| [**LD-connect**](https://github.com/Lokeshwaran-V/LD-connect) | Web app for multiple users to connect in a private room, chat, and share/watch videos together | CSS |
-| [**my-portfolio**](https://github.com/Lokeshwaran-V/my-portfolio) | Personal portfolio built with React.js | JavaScript |
-| [**DSA**](https://github.com/Lokeshwaran-V/DSA) | Collection of Data Structures & Algorithms problems, all levels | — |
-| [**Digital_clock.github.io**](https://github.com/Lokeshwaran-V/Digital_clock.github.io) | A simple digital clock web app | CSS |
-| [**Web-app**](https://github.com/Lokeshwaran-V/Web-app) | Web application project | JavaScript |
+## 🎯 Current Focus
+
+- Building maintainable and scalable React applications
+- Strengthening Java and Spring Boot backend development
+- Improving API integration, authentication, and application performance
+- Writing cleaner code and developing better testing practices
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lokeshwaran-V&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Lokeshwaran-V&label=Profile%20Visitors&color=7C3AED&style=for-the-badge" alt="Profile Visitors"/>
 </p>
 
-<p align="center"><i>Thanks for stopping by! Feel free to connect and collaborate 🚀</i></p>
+<h3 align="center">✨ Build. Learn. Improve. Repeat. ✨</h3>
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to explore my projects and connect with me.
+</p>

@@ -13,17 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokeshwaran-venkatesan-frontend-developer-react-js">
+  <a href="https://www.linkedin.com/in/lokeshwaran-venkatesan-fullstack-developer/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:sudhavenkat.lokesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Lokeshwaran-V">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -44,19 +45,19 @@
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,sass,tailwind,vite" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,vite" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=java,spring" alt="Backend Technologies"/>
 </p>
 
 ### 🗄️ Database & API
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,hibernate,postman" alt="Database and API Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postman" alt="Database and API Tools"/>
 </p>
 
 ### 🧪 Testing, Tools & DevOps
@@ -88,7 +89,7 @@
     <td width="50%">
       <h3>🌐 Portfolio Website</h3>
       <p>A personal portfolio showcasing development skills, projects, and professional experience.</p>
-      <p><strong>Tech:</strong> JavaScript, HTML, CSS</p>
+      <p><strong>Tech:</strong> React.js, JavaScript, HTML, CSS</p>
       <a href="https://github.com/Lokeshwaran-V/Portfolio-site">View Project →</a>
     </td>
     <td width="50%">
@@ -111,10 +112,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lokeshwaran-V&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran-V&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
